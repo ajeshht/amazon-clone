@@ -1,4 +1,14 @@
 # Amazon.com Clone Project
 
 First HTML & CSS Project.
-[Click Here](https://ajeshht.github.io/amazon-clone/) To view the Clone..
+By Clicking [Here](https://ajeshht.github.io/amazon-clone/) can view the project
+
+# Technologies Used
+-HTML
+
+-CSS
+
+# Tools Used
+-Windows
+
+-Visual Studio Code
